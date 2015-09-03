@@ -1,0 +1,6 @@
+Word: so, Count: 9
+Word: god, Count: 9
+Word: to, Count: 8
+Word: a, Count: 3
+Word: man, Count: 3
+Word: they, Count: 0

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="rpg_Game_V1.AbilityModels.Ability" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAUAAAAAgAAAAAAAAAAAABA=</HashCode>
+      <FileName>AbilityModels\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.AbilityModels.AttackAbility" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>AbilityModels\AttackAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.AbilityModels.DeffAbility" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>AbilityModels\DeffAbility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.AbilityModels.HealAbility" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAEIAAAAgAAAAAAgAAAAABA=</HashCode>
+      <FileName>AbilityModels\HealAbility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.AbilityModels.LightAttackAbility" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAAIAAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>AbilityModels\LightAttackAbility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.AbilityModels.LightMagicAbility" Collapsed="true">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAAIAAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>AbilityModels\LightMagicAbility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.ActionModels.GameAction" Collapsed="true">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ActionModels\GameAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.ActionModels.HealAction" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAAAAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ActionModels\HealAction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.ActionModels.MagicAttack" Collapsed="true">
+    <Position X="2.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAAAAAgAAAAAAAAAQAQAA=</HashCode>
+      <FileName>ActionModels\MagicAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.ActionModels.OffensiveA" Collapsed="true">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActionModels\OffensiveA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.ActionModels.WeaponAttack" Collapsed="true">
+    <Position X="5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAAAAAgAAAAAAAAAQAQAA=</HashCode>
+      <FileName>ActionModels\WeaponAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.BattlePath" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgAAAAAgAAAAAAAAAAACABAAAAAAAAAAI=</HashCode>
+      <FileName>BattlePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.ChoiceWindow" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAgEAEAACAAAATAoAAAAAgkAAAEQAAACA=</HashCode>
+      <FileName>ChoiceWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.CombatScreen" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAABAQAACAAAACAIQJAAAAAUAAAAAAACQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.InventoryWindow" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAxUAAGAgAAIQAACACCADBIADQABEAEAAAA5CACA=</HashCode>
+      <FileName>InventoryWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Program" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Engine.CoreEngine" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Engine\CoreEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.EntityModels.BadEntity" Collapsed="true">
+    <Position X="10.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EntityModels\BadEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.EntityModels.Enemy" Collapsed="true">
+    <Position X="10.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAAQAAgAAA=</HashCode>
+      <FileName>EntityModels\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.EntityModels.Entity" Collapsed="true">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAEAAAAAAQgAAAAAAAAIIAAAEAAAAA=</HashCode>
+      <FileName>EntityModels\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.EntityModels.GoodEntity" Collapsed="true">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>EntityModels\GoodEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.EntityModels.Player" Collapsed="true">
+    <Position X="8.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgEAABAQAAAAAAEEAAQABAAAgQAQBAAAAAAAAgAABAE=</HashCode>
+      <FileName>EntityModels\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Factories.ItemFactory" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAIBAAEAAAAAAACAAAAAABAA=</HashCode>
+      <FileName>Factories\ItemFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Factories.MobFactory" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAABAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>Factories\MobFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Properties.Resources" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Properties.Settings" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Render.Renderer" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Render\Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.Armor" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Armor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.DarkStaff" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAQAAA=</HashCode>
+      <FileName>Weapons\DarkStaff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.Items" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQQAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.PlateArmor" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\PlateArmor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.Saber" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAQAAA=</HashCode>
+      <FileName>Weapons\Saber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.Trinket" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Weapons\Trinket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rpg_Game_V1.Weapons.Weapon" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="rpg_Game_V1.EntityModels.EntityStats" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAASEAAAAAAAAIAAAAAAAAAAAICAAACA=</HashCode>
+      <FileName>EntityModels\EntityStats.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="rpg_Game_V1.AbilityModels.Interface.IAbility&lt;T&gt;" Collapsed="true">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAUAAAAAgAAAAAAgAAAAAAA=</HashCode>
+      <FileName>AbilityModels\Interface\IAbility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="rpg_Game_V1.ActionModels.Interface.IHealer" Collapsed="true">
+    <Position X="18.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAAAAAgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ActionModels\Interface\IHealer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="rpg_Game_V1.ActionModels.Interface.IOffensive" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAEAAAAAgAAAAAAAAAQAQAA=</HashCode>
+      <FileName>ActionModels\Interface\IOffensive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="rpg_Game_V1.EntityModels.Interfaces.IEntity" Collapsed="true">
+    <Position X="16.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAQgAAAAAAAAIAAAAEAAAAA=</HashCode>
+      <FileName>EntityModels\Interfaces\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="rpg_Game_V1.Weapons.Interface.IArmor" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Interface\IArmor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="rpg_Game_V1.Weapons.Interface.IWeapon" Collapsed="true">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQQAAA=</HashCode>
+      <FileName>Weapons\Interface\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="rpg_Game_V1.Factories.EnemyType" Collapsed="true">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAgBAAAAAAAAABAABAAAAAAACAAAgQCAAI=</HashCode>
+      <FileName>Factories\EnemyType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="rpg_Game_V1.Factories.ItemTypes" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Factories\ItemTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="rpg_Game_V1.Weapons.Names.DarkStaffNames" Collapsed="true">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Names\DarkStaffNames.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="rpg_Game_V1.Weapons.Names.PlateArmorsNames" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Names\PlateArmorsNames.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="rpg_Game_V1.Weapons.Names.SaberNames" Collapsed="true">
+    <Position X="13" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapons\Names\SaberNames.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="rpg_Game_V1.Weapons.Names.TrinketsNames" Collapsed="true">
+    <Position X="14.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAg=</HashCode>
+      <FileName>Weapons\Names\TrinketsNames.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
