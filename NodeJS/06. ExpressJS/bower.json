@@ -1,0 +1,17 @@
+{
+  "name": "06-expressjs",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}

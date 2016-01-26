@@ -1,0 +1,13 @@
+.container
+    .jumbotron
+        h1 Real Estates
+        h2 Inspired by Telerik Academy. Best trainings in the world
+    .row
+        .col-md-6
+            .panel.panel-info
+                .panel-heading.text-center Featured
+                .panel-body(ng-include="'/partials/main/featured-courses'")
+        .col-md-6
+            .panel.panel-info
+                .panel-heading.text-center New
+                .panel-body(ng-include="'/partials/main/new-courses'")
