@@ -1,0 +1,1 @@
+Change the connection string -> Common -> ConnectionStrings.cs -> DefaultConnection
